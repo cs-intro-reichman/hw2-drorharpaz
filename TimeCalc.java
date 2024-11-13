@@ -5,7 +5,7 @@ public class TimeCalc {
         //int currentHour = Integer.parseInt("" + args[0].charAt(0)) + (args[0].charAt(1));
         int minutsToAdd = Integer.parseInt(args[1]);
 
-        // Printing chrck of the valus.
+        // Printing check of the valus.
         //System.out.println("Hours: " + currentHour);
         //System.out.println("Minuts: " + currentMinuts);
         //System.out.println("addMinuts: " + minutsToAdd);
