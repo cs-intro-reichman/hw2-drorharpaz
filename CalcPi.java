@@ -17,8 +17,8 @@ public class CalcPi {
 			o = o + 1;
 			m = m + 2;
 		}
-		
+
 		System.out.println("pi according to Java: " + Math.PI);
-		System.out.println("pi, approximated: " + sum);
+		System.out.println("pi, approximated: " + sum * 4);
 	}
 }
